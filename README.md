@@ -12,9 +12,7 @@ Fazenda Ativa is a smart management app for rural properties. It brings together
 
 The goal is simple: give farmers a single, easy-to-use tool that fits the reality of rural work.
 
----
-
-## ✨ Features
+Features:
 
 - 🗺️ **Professional, personalized maps** — work offline, directly in the field, without depending on a signal.
 - 📋 **Simple, intuitive management** — expenses, incidents, herd, cash flow, and other farm information.
@@ -50,11 +48,10 @@ Fazenda Ativa was designed from the ground up to solve these problems — **offl
 
 ---
 
-## 📸 Screenshots
+## 📸 Demos
 
-<!-- Add screenshots here when available -->
+[Veja Demos](https://galvaomarcelo.github.io/my-page/#projects)
 
-> _Screenshots coming soon._
 
 ---
 
